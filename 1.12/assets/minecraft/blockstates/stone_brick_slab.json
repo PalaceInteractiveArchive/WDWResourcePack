@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "half=bottom": { "model": "half_slab_stone_brick" },
+        "half=top": { "model": "upper_slab_stone_brick" },
+        "half=top": { "model": "upper_slab_stone_brick2" },
+        "half=top": { "model": "upper_slab_stone_brick3" },
+        "half=top": { "model": "upper_slab_stone_brick4" },
+        "half=top": { "model": "upper_slab_stone_brick5" }
+    }
+}

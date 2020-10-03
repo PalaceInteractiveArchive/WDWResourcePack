@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "grass_normal" },
+            { "model": "grass_block/grass_block1" },
+            { "model": "grass_block/grass_block2" },
+            { "model": "grass_block/grass_block3" },
+            { "model": "grass_block/grass_block4" },
+            { "model": "grass_block/grass_block5" },
+            { "model": "grass_block/grass_block6" },
+            { "model": "grass_block/grass_block7" },
+            { "model": "grass_block/grass_block8" },
+            { "model": "grass_block/grass_block9" },
+            { "model": "grass_block/grass_block10" }
+        ]
+    }
+}

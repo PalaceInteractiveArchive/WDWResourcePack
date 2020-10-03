@@ -1,0 +1,21 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_pickaxe"
+    },
+"overrides":[
+{ "predicate": { "damaged": 0, "damage": 0.00064061499}, "model":"item/shows/fof/fofprin1"},
+{ "predicate": { "damaged": 0, "damage": 0.00128122998}, "model":"item/shows/fof/fofpre"},
+{ "predicate": { "damaged": 0, "damage": 0.00192184500}, "model":"item/shows/fof/fofprin2"},
+{ "predicate": { "damaged": 0, "damage": 0.00256245996}, "model":"item/shows/fof/fofprin3"},
+{ "predicate": { "damaged": 0, "damage": 0.00320307495}, "model":"item/shows/calvalcades/btydefault"},
+{ "predicate": { "damaged": 0, "damage": 0.00384368994}, "model":"item/shows/calvalcades/mirror1"},
+{ "predicate": { "damaged": 0, "damage": 0.00448430493}, "model":"item/shows/calvalcades/mirror2"},
+{ "predicate": { "damaged": 0, "damage": 0.00512491992}, "model":"item/rides/friendshipb1"},
+{ "predicate": { "damaged": 0, "damage": 0.00576553491}, "model":"item/rides/friendshipb2"},
+{ "predicate": { "damaged": 0, "damage": 0.006406149903}, "model":"item/rides/friendshipy1"},
+{ "predicate": { "damaged": 0, "damage": 0.00704676489}, "model":"item/rides/friendshipy2"},
+{ "predicate": { "damaged": 0, "damage": 0.0076873798}, "model":"item/rides/friendshipr1"},
+{ "predicate": { "damaged": 0, "damage": 0.008327994}, "model":"item/rides/friendshipr2"}
+]
+}

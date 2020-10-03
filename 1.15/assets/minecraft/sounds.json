@@ -1,0 +1,10 @@
+{
+    "fp.fpaudio":{
+        "category": "record",
+        "sounds": [
+            {
+                "name": "fp/fpaudio",
+                "stream":false
+            }]
+    }
+}

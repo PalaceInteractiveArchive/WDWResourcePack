@@ -1,0 +1,27 @@
+{
+	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/e_particle",
+		"texture": "block/gold_block"
+	},
+	"elements": [
+		{
+			"__comment": "Cube1",
+			"from": [ 8, -16, 7 ],
+			"to": [ 9, 32, 8 ],
+			"faces": {
+				"down": { "uv": [ 8, 8, 9, 9 ], "texture": "#texture" },
+				"up": { "uv": [ 8, 7, 9, 8 ], "texture": "#texture" },
+				"north": { "uv": [ 7, 0, 8, 16 ], "texture": "#texture" },
+				"south": { "uv": [ 8, 0, 9, 16 ], "texture": "#texture" },
+				"west": { "uv": [ 7, 0, 8, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 8, 0, 9, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"scale":  [ 1.7, 2.8, 1.7 ]
+		}
+	}
+}
