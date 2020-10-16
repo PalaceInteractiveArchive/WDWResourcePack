@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/diamond_hoe"
+        "layer0": "item/diamond_hoe"
     },
 "overrides":[
 { "predicate": { "damaged": 0, "damage": 0.00064061499}, "model":"item/crown"},
@@ -89,6 +89,20 @@
 { "predicate": { "damaged": 0, "damage": 0.0531710442}, "model":"item/hats/h20glowears"},
 { "predicate": { "damaged": 0, "damage": 0.0538116592}, "model":"item/hats/cinderellaears"},
 { "predicate": { "damaged": 0, "damage": 0.054452274}, "model":"item/handitems/swgecoke"},
-{ "predicate": { "damaged": 0, "damage": 0.0550928891}, "model":"item/handitems/swgesprite"}
+{ "predicate": { "damaged": 0, "damage": 0.0550928891}, "model":"item/handitems/swgesprite"},
+{ "predicate": { "damaged": 0, "damage": 0.0557335042}, "model":"item/handitems/elsa_staff"},
+{ "predicate": { "damaged": 0, "damage": 0.0563741191}, "model":"item/handitems/orangelightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.0570147341}, "model":"item/handitems/redlightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.0576553491}, "model":"item/handitems/storm_trooper_blaster"},
+{ "predicate": { "damaged": 0, "damage": 0.058295964}, "model":"item/handitems/storm_trooper_blaster_black"},
+{ "predicate": { "damaged": 0, "damage": 0.058936579}, "model":"item/handitems/violetlightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.059577194}, "model":"item/handitems/walking_zero"},
+{ "predicate": { "damaged": 0, "damage": 0.060217809}, "model":"item/hats/donald_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.060858424}, "model":"item/hats/dumbo_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.06149903907}, "model":"item/hats/kermit_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.06213965406}, "model":"item/hats/oogie_boogie"},
+{ "predicate": { "damaged": 0, "damage": 0.062780269}, "model":"item/hats/pumpkinearsbaseballcap"},
+{ "predicate": { "damaged": 0, "damage": 0.06342088404}, "model":"item/hats/steamboat_willie_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0640614990}, "model":"item/hats/towerofterrorhat"}
 ]
 }
