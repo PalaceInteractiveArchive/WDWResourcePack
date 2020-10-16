@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_hoe"
+        "layer0": "items/diamond_hoe"
     },
 "overrides":[
 { "predicate": { "damaged": 0, "damage": 0.00064061499}, "model":"item/crown"},
@@ -103,6 +103,7 @@
 { "predicate": { "damaged": 0, "damage": 0.06213965406}, "model":"item/hats/oogie_boogie"},
 { "predicate": { "damaged": 0, "damage": 0.062780269}, "model":"item/hats/pumpkinearsbaseballcap"},
 { "predicate": { "damaged": 0, "damage": 0.06342088404}, "model":"item/hats/steamboat_willie_hat"},
-{ "predicate": { "damaged": 0, "damage": 0.0640614990}, "model":"item/hats/towerofterrorhat"}
+{ "predicate": { "damaged": 0, "damage": 0.0640614990}, "model":"item/hats/towerofterrorhat"},
+{ "predicate": { "damaged": 0, "damage": 0.064702114}, "model":"item/handitems/maui_hook"}
 ]
 }
