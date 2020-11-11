@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "marvelhat",
 	"textures": {
 		"0": "blocks/wool_colored_black",
 		"2": "custom/marvel1",

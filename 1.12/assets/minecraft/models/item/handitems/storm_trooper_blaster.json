@@ -6840,12 +6840,6 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"rotation": [40, 57, 0]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [40, 57, 0]
-		},
 		"gui": {
 			"rotation": [-48, 119, 8],
 			"translation": [1, 0, 0]

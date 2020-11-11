@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "blocks/hardened_clay_stained_light_blue",
+		"1": "blocks/hardened_clay_stained_blue",
 		"3": "blocks/gold_block",
 		"4": "blocks/wool_colored_white",
 		"5": "blocks/wool_colored_black",
@@ -8685,6 +8685,18 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0],
+			"translation": [0, 3.25, 2.25],
+			"scale": [2.08, 2.08, 2.08]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"translation": [0, 3.25, 2.25],
+			"scale": [2.08, 2.08, 2.08]
+		}
+	},
 	"groups": [
 		{
 			"name": "Madame Wardrobe",
