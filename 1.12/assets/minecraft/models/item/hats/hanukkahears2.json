@@ -260,8 +260,21 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [67.25, 0, 0],
-			"translation": [-6, 4, 20.75]
+			"rotation": [0, 26, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 26, 0]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"scale": [1.21, 1.21, 1.21]
+		},
+		"head": {
+			"translation": [0, 9.25, 0],
+			"scale": [1.75, 1.75, 1.73]
+		},
+		"fixed": {
+			"scale": [1.4, 1.4, 1.4]
 		}
 	},
 	"groups": [

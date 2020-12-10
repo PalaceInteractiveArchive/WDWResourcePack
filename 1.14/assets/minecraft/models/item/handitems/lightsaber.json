@@ -2447,14 +2447,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [6, 0, 0],
-			"translation": [-1, -2.75, 5.25],
-			"scale": [0.81, 1.24, 0.75]
+			"rotation": [51.2, 0, 0],
+			"translation": [-1, -5, 5.25],
+			"scale": [1, 1.23, 1]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [6, 0, 0],
-			"translation": [1, -2.75, 5.25],
-			"scale": [0.74, 1.02, 0.71]
+			"rotation": [51.2, 0, 0],
+			"translation": [1.25, -5, 5.25],
+			"scale": [1, 1.23, 1]
 		},
 		"firstperson_righthand": {
 			"rotation": [-4, 0, 0],

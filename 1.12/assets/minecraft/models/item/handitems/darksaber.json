@@ -721,14 +721,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [-2, -90, 0],
-			"translation": [0, 5.5, -0.25],
-			"scale": [2.1, 2.38, 3.5]
+			"rotation": [51.2, -90, 0],
+			"translation": [0, 6.5, 7.5],
+			"scale": [2.1, 2.53, 3.5]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [-2, 90, 0],
-			"translation": [0, 5.5, -0.25],
-			"scale": [1.59, 1.99, 2.72]
+			"rotation": [51.2, 90, 0],
+			"translation": [0, 6.5, 7.5],
+			"scale": [2.1, 2.53, 3.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [4, 64, -42],

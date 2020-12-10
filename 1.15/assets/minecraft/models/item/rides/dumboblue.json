@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Autvmn",
 	"textures": {
-		"0": "block/gray_wool",
+		"0": "block/light_gray_wool",
 		"1": "block/pink_wool",
 		"2": "block/red_wool",
 		"3": "block/light_blue_wool",
@@ -11,7 +11,7 @@
 		"7": "block/orange_wool",
 		"8": "block/white_wool",
 		"9": "block/yellow_wool",
-		"particle": "block/gray_wool"
+		"particle": "block/light_gray_wool"
 	},
 	"elements": [
 		{

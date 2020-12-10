@@ -57,7 +57,15 @@
 		{ "predicate": { "damaged": 0, "damage": 0.03010890454}, "model":"item/decorations/madame_wardrobe_closed"},
 		{ "predicate": { "damaged": 0, "damage": 0.03074951953}, "model":"item/decorations/madame_wardrobe_open"},
 		{ "predicate": { "damaged": 0, "damage": 0.0313901345}, "model":"item/decorations/redcokedroid"},
-		{ "predicate": { "damaged": 0, "damage": 0.0320307495}, "model":"item/handitems/walt"}
+		{ "predicate": { "damaged": 0, "damage": 0.0320307495}, "model":"item/handitems/walt"},
+		{ "predicate": { "damaged": 0, "damage": 0.0326713645}, "model":"item/decorations/bluebb8"},
+		{ "predicate": { "damaged": 0, "damage": 0.0333119795}, "model":"item/decorations/bluebb8head"},
+		{ "predicate": { "damaged": 0, "damage": 0.03395259449}, "model":"item/decorations/candy_cane"},
+		{ "predicate": { "damaged": 0, "damage": 0.03459320948}, "model":"item/decorations/gebluedroid2"},
+		{ "predicate": { "damaged": 0, "damage": 0.03523382447}, "model":"item/decorations/georanger2d2"},
+		{ "predicate": { "damaged": 0, "damage": 0.03587443946}, "model":"item/decorations/gonk"},
+		{ "predicate": { "damaged": 0, "damage": 0.03651505445}, "model":"item/decorations/gonk_white"},
+		{ "predicate": { "damaged": 0, "damage": 0.03715566944}, "model":"item/decorations/mvmcpcauldron"}
 	],
 	"elements": [
 		{

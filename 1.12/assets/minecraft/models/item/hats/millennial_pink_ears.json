@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blocks/double_plant_paeonia_bottom",
-		"particle": "blocks/double_plant_paeonia_bottom"
+		"0": "blocks/double_plant_paeonia_top",
+		"particle": "blocks/double_plant_paeonia_top"
 	},
 	"elements": [
 		{
