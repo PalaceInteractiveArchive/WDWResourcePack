@@ -1,7 +1,7 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "items/shears"
+        "layer0": "item/shears"
     },"overrides":[
       { "predicate": { "damaged": 0, "damage": 0.004201680672}, "model": "item/rides/horses"},
       { "predicate": { "damaged": 0, "damage": 0.008403361345}, "model": "item/rides/horses_pole"},
@@ -83,6 +83,9 @@
       { "predicate": { "damaged": 0, "damage": 0.327731092}, "model": "item/rides/mamrr_cart" },
       { "predicate": { "damaged": 0, "damage": 0.331932773}, "model": "item/rides/rotr" },
       { "predicate": { "damaged": 0, "damage": 0.336134454}, "model": "item/rides/feaboat" },
-      { "predicate": { "damaged": 0, "damage": 0.340336134}, "model": "item/rides/test_track" }
+      { "predicate": { "damaged": 0, "damage": 0.340336134}, "model": "item/rides/test_track" },
+      { "predicate": { "damaged": 0, "damage": 0.344537815}, "model": "item/rides/r5" },
+      { "predicate": { "damaged": 0, "damage": 0.348739496}, "model": "item/rides/r5head" },
+      { "predicate": { "damaged": 0, "damage": 0.352941176}, "model": "item/rides/rotrdoor" }
 ]
 }

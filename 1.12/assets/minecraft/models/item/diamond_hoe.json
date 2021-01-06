@@ -109,6 +109,8 @@
 { "predicate": { "damaged": 0, "damage": 0.065983344}, "model":"item/handitems/bluemilk"},
 { "predicate": { "damaged": 0, "damage": 0.066623959}, "model":"item/handitems/mickey_phone"},
 { "predicate": { "damaged": 0, "damage": 0.067264574}, "model":"item/handitems/porg"},
-{ "predicate": { "damaged": 0, "damage": 0.067905189}, "model":"item/hats/santa_belt_ears"}
+{ "predicate": { "damaged": 0, "damage": 0.067905189}, "model":"item/hats/santa_belt_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.068545804}, "model":"item/hats/mando_helmet"},
+{ "predicate": { "damaged": 0, "damage": 0.069186419}, "model":"item/handitems/holocron"}
 ]
 }

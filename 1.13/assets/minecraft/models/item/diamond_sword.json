@@ -65,7 +65,14 @@
 		{ "predicate": { "damaged": 0, "damage": 0.03523382447}, "model":"item/decorations/georanger2d2"},
 		{ "predicate": { "damaged": 0, "damage": 0.03587443946}, "model":"item/decorations/gonk"},
 		{ "predicate": { "damaged": 0, "damage": 0.03651505445}, "model":"item/decorations/gonk_white"},
-		{ "predicate": { "damaged": 0, "damage": 0.03715566944}, "model":"item/decorations/mvmcpcauldron"}
+		{ "predicate": { "damaged": 0, "damage": 0.03715566944}, "model":"item/decorations/mvmcpcauldron"},
+		{ "predicate": { "damaged": 0, "damage": 0.0377962844}, "model":"item/decorations/dreidalmickey"},
+		{ "predicate": { "damaged": 0, "damage": 0.0384368994}, "model":"item/decorations/dreidalminnie"},
+		{ "predicate": { "damaged": 0, "damage": 0.0390775144}, "model":"item/decorations/dreidaldonald"},
+		{ "predicate": { "damaged": 0, "damage": 0.0397181294}, "model":"item/decorations/dreidalgoofy"},
+		{ "predicate": { "damaged": 0, "damage": 0.0403587444}, "model":"item/decorations/dreidalpluto"},
+		{ "predicate": { "damaged": 0, "damage": 0.0409993594}, "model":"item/decorations/dreidalstitch"},
+		{ "predicate": { "damaged": 0, "damage": 0.0416399744}, "model":"item/decorations/dok"}
 	],
 	"elements": [
 		{
