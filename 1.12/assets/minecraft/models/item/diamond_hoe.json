@@ -111,6 +111,9 @@
 { "predicate": { "damaged": 0, "damage": 0.067264574}, "model":"item/handitems/porg"},
 { "predicate": { "damaged": 0, "damage": 0.067905189}, "model":"item/hats/santa_belt_ears"},
 { "predicate": { "damaged": 0, "damage": 0.068545804}, "model":"item/hats/mando_helmet"},
-{ "predicate": { "damaged": 0, "damage": 0.069186419}, "model":"item/handitems/holocron"}
+{ "predicate": { "damaged": 0, "damage": 0.069186419}, "model":"item/handitems/holocron"},
+{ "predicate": { "damaged": 0, "damage": 0.069827034}, "model":"item/hats/figment_ears_bow"},
+{ "predicate": { "damaged": 0, "damage": 0.0704676489}, "model":"item/hats/resistancefighter"},
+{ "predicate": { "damaged": 0, "damage": 0.0711082639}, "model":"item/hats/sorcerer_mickey"}
 ]
 }

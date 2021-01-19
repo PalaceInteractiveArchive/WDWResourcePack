@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by RRandomm",
 	"textures": {
 		"0": "blocks/wool_colored_black",
 		"1": "blocks/wool_colored_red",
@@ -2137,6 +2137,17 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-4.75, -28.75, 45.75],
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"translation": [1.25, 19, 26.75],
+			"scale": [4, 4, 4]
+		}
+	},
 	"groups": [
 		{
 			"name": "R5 Head",

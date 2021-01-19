@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/diamond_pickaxe"
+        "layer0": "items/diamond_pickaxe"
     },
 "overrides":[
 { "predicate": { "damaged": 0, "damage": 0.00064061499}, "model":"item/shows/fof/fofprin1"},
@@ -21,6 +21,10 @@
 { "predicate": { "damaged": 0, "damage": 0.00960922486}, "model":"item/shows/misi/misi2"},
 { "predicate": { "damaged": 0, "damage": 0.0102498398}, "model":"item/shows/misi/misi3"},
 { "predicate": { "damaged": 0, "damage": 0.0108904548}, "model":"item/shows/misi/misi4"},
-{ "predicate": { "damaged": 0, "damage": 0.0115310698}, "model":"item/shows/misi/misi5"}
+{ "predicate": { "damaged": 0, "damage": 0.0115310698}, "model":"item/shows/misi/misi5"},
+{ "predicate": { "damaged": 0, "damage": 0.01217168481}, "model":"item/shows/textures/star"},
+{ "predicate": { "damaged": 0, "damage": 0.0128122998}, "model":"item/shows/textures/cloud"},
+{ "predicate": { "damaged": 0, "damage": 0.01345291479}, "model":"item/shows/textures/luxo"},
+{ "predicate": { "damaged": 0, "damage": 0.0140935298}, "model":"item/rides/laser"}
 ]
 }

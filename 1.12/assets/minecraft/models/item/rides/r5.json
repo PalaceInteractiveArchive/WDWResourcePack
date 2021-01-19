@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by RRandomm",
 	"textures": {
 		"0": "blocks/wool_colored_black",
 		"2": "blocks/astrogrill",
@@ -2216,6 +2216,7 @@
 			"scale": [4, 4, 4]
 		},
 		"head": {
+			"translation": [1.25, 32.75, 27.25],
 			"scale": [4, 4, 4]
 		}
 	},

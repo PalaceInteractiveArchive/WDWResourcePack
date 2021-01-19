@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench by Drew",
 	"textures": {
 		"0": "block/black_wool",
 		"2": "block/astrogrill",
@@ -2216,6 +2216,7 @@
 			"scale": [4, 4, 4]
 		},
 		"head": {
+			"translation": [1.25, 32.75, 27.25],
 			"scale": [4, 4, 4]
 		}
 	},
