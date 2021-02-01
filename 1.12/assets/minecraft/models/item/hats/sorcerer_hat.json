@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/gold_ore",
-		"1": "block/black_wool",
+		"0": "blocks/gold_ore",
+		"1": "blocks/wool_colored_black",
 		"3": "custom/moon",
 		"4": "custom/star",
-		"particle": "block/gold_ore"
+		"particle": "blocks/gold_ore"
 	},
 	"elements": [
 		{

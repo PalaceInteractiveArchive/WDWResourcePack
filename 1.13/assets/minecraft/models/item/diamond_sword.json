@@ -72,7 +72,10 @@
 		{ "predicate": { "damaged": 0, "damage": 0.0397181294}, "model":"item/decorations/dreidalgoofy"},
 		{ "predicate": { "damaged": 0, "damage": 0.0403587444}, "model":"item/decorations/dreidalpluto"},
 		{ "predicate": { "damaged": 0, "damage": 0.0409993594}, "model":"item/decorations/dreidalstitch"},
-		{ "predicate": { "damaged": 0, "damage": 0.0416399744}, "model":"item/decorations/dok"}
+		{ "predicate": { "damaged": 0, "damage": 0.0416399744}, "model":"item/decorations/dok"},
+		{ "predicate": { "damaged": 0, "damage": 0.0422805894}, "model":"item/decorations/buford"},
+		{ "predicate": { "damaged": 0, "damage": 0.0429212044}, "model":"item/decorations/djrexhead"},
+		{ "predicate": { "damaged": 0, "damage": 0.0435618193}, "model":"item/decorations/djrexbody"}
 	],
 	"elements": [
 		{
