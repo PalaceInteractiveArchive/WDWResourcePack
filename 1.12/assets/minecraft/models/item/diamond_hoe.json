@@ -116,6 +116,9 @@
 { "predicate": { "damaged": 0, "damage": 0.0704676489}, "model":"item/hats/resistancefighter"},
 { "predicate": { "damaged": 0, "damage": 0.0711082639}, "model":"item/hats/sorcerer_mickey"},
 { "predicate": { "damaged": 0, "damage": 0.0717488789}, "model":"item/handitems/paintbrush"},
-{ "predicate": { "damaged": 0, "damage": 0.0723894939}, "model":"item/handitems/paintbrush_pen"}
+{ "predicate": { "damaged": 0, "damage": 0.0723894939}, "model":"item/handitems/paintbrush_pen"},
+{ "predicate": { "damaged": 0, "damage": 0.0730301089}, "model":"item/hats/paintbrush_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0736707239}, "model":"item/hats/hamilton_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0743113389}, "model":"item/hats/beetlejuice_ears"}
 ]
 }
