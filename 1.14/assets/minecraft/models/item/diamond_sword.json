@@ -75,7 +75,9 @@
 		{ "predicate": { "damaged": 0, "damage": 0.0416399744}, "model":"item/decorations/dok"},
 		{ "predicate": { "damaged": 0, "damage": 0.0422805894}, "model":"item/decorations/buford"},
 		{ "predicate": { "damaged": 0, "damage": 0.0429212044}, "model":"item/decorations/djrexhead"},
-		{ "predicate": { "damaged": 0, "damage": 0.0435618193}, "model":"item/decorations/djrexbody"}
+		{ "predicate": { "damaged": 0, "damage": 0.0435618193}, "model":"item/decorations/djrexbody"},
+		{ "predicate": { "damaged": 0, "damage": 0.0442024343}, "model":"item/decorations/luxo_ball"},
+		{ "predicate": { "damaged": 0, "damage": 0.0448430493}, "model":"item/decorations/pixarweek"}
 	],
 	"elements": [
 		{

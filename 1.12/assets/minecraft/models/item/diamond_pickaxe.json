@@ -25,6 +25,19 @@
 { "predicate": { "damaged": 0, "damage": 0.01217168481}, "model":"item/shows/textures/star"},
 { "predicate": { "damaged": 0, "damage": 0.0128122998}, "model":"item/shows/textures/cloud"},
 { "predicate": { "damaged": 0, "damage": 0.01345291479}, "model":"item/shows/textures/luxo"},
-{ "predicate": { "damaged": 0, "damage": 0.0140935298}, "model":"item/rides/laser"}
+{ "predicate": { "damaged": 0, "damage": 0.01409352978}, "model":"item/shows/textures/eve"},
+{ "predicate": { "damaged": 0, "damage": 0.01473414477}, "model":"item/shows/textures/walle"},
+{ "predicate": { "damaged": 0, "damage": 0.01537475976}, "model":"item/shows/textures/guido"},
+{ "predicate": { "damaged": 0, "damage": 0.01601537475}, "model":"item/shows/textures/luigi"},
+{ "predicate": { "damaged": 0, "damage": 0.01665598975}, "model":"item/shows/textures/mike"},
+{ "predicate": { "damaged": 0, "damage": 0.01729660474}, "model":"item/shows/textures/sulley"},
+{ "predicate": { "damaged": 0, "damage": 0.01793721973}, "model":"item/shows/textures/frozone"},
+{ "predicate": { "damaged": 0, "damage": 0.01857783472}, "model":"item/shows/textures/incredible1"},
+{ "predicate": { "damaged": 0, "damage": 0.01921844971}, "model":"item/shows/textures/incredible2"},
+{ "predicate": { "damaged": 0, "damage": 0.0198590647}, "model":"item/shows/textures/lightning"},
+{ "predicate": { "damaged": 0, "damage": 0.02049967969}, "model":"item/shows/textures/heimlich"},
+{ "predicate": { "damaged": 0, "damage": 0.02114029468}, "model":"item/shows/textures/nemo"},
+{ "predicate": { "damaged": 0, "damage": 0.02178090967}, "model":"item/shows/textures/squirt"},
+{ "predicate": { "damaged": 0, "damage": 0.02242152466}, "model":"item/shows/textures/up"}
 ]
 }
