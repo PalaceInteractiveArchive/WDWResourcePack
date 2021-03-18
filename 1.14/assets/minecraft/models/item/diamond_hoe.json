@@ -124,6 +124,8 @@
 { "predicate": { "damaged": 0, "damage": 0.0755925689}, "model":"item/hats/luxo_ears"},
 { "predicate": { "damaged": 0, "damage": 0.0762331839}, "model":"item/hats/remy_ears"},
 { "predicate": { "damaged": 0, "damage": 0.0768737988}, "model":"item/hats/incrediblescap"},
-{ "predicate": { "damaged": 0, "damage": 0.0775144138}, "model":"item/handitems/onward_staff"}
+{ "predicate": { "damaged": 0, "damage": 0.0775144138}, "model":"item/handitems/onward_staff"},
+{ "predicate": { "damaged": 0, "damage": 0.0781550288}, "model":"item/hats/loki_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0787956438}, "model":"item/hats/scarletwitch_headpiece"}
 ]
 }
