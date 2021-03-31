@@ -1,85 +1,48 @@
 {
-    "credit": "Made with Blockbench",
-    "texture_size": [
-        33,
-        33
-    ],
-    "textures": {
-        "main": "custom/autumnbutterfly1"
-    },
-    "elements": [
-        {
-            "from": [ 7.62198, -4, -5.63067 ],
-            "to":   [ 7.62198, 22, 7.36933 ],
-            "rotation": { "angle": -22.5, "axis": "y", "origin": [7.14645, 9, 7.56066] },
-            "faces": {
-                "north": { "uv": [ 0, 0, 0.36352265624999996, 2.749498125 ], "texture": "#main" },
-                "east":  { "uv": [ 0, 0, 3.74977265625, 8.2489996875 ], "texture": "#main" },
-                "south": { "uv": [ 0, 0, 0.11352187500000001, 3.8497490625 ], "texture": "#main" },
-                "west":  { "uv": [ 3.74977265625, 0, 0, 8.24949984375 ], "texture": "#main" },
-                "up":    { "uv": [ 0, 0, 1.24999921875, 0.25000078125 ], "rotation":90, "texture": "#main" },
-                "down":  { "uv": [ 0, 0, 1.24999921875, 0.25000078125 ], "rotation":270, "texture": "#main" }
-            }
-        },
-        {
-            "from": [ 7.62291, -4, 7.7628 ],
-            "to":   [ 7.62291, 22, 20.7628 ],
-            "rotation": { "angle": 22.5, "axis": "y", "origin": [7.14737, 9, 7.57148] },
-            "faces": {
-                "north": { "uv": [ 0, 0, 0.11352187500000001, 3.29925234375 ], "texture": "#main" },
-                "east":  { "uv": [ 3.74977265625, 0, 0, 8.24949984375 ], "texture": "#main" },
-                "south": { "uv": [ 0, 0, 0.11352187500000001, 2.749498125 ], "texture": "#main" },
-                "west":  { "uv": [ 0, 0, 3.74977265625, 8.24949984375 ], "texture": "#main" },
-                "up":    { "uv": [ 0, 0, 1.24999921875, 0.25000078125 ], "rotation":90, "texture": "#main" },
-                "down":  { "uv": [ 0, 0, 1.24999921875, 0.25000078125 ], "rotation":270, "texture": "#main" }
-            }
-        },
-        {
-            "from": [ 7.62198, -4, -5.63067 ],
-            "to":   [ 7.62198, 22, 7.36933 ],
-            "rotation": { "angle": -45, "axis": "y", "origin": [7.14645, 9, 7.56066] },
-            "faces": {
-                "north": { "uv": [ 8, 0, 8.36352265625, 2.749498125 ], "texture": "#main" },
-                "east":  { "uv": [ 8, 0, 11.74977265625, 8.2489996875 ], "texture": "#main" },
-                "south": { "uv": [ 8, 0, 8.113521875, 3.8497490625 ], "texture": "#main" },
-                "west":  { "uv": [ 11.74977265625, 0, 8, 8.24949984375 ], "texture": "#main" },
-                "up":    { "uv": [ 8, 0, 9.24999921875, 0.25000078125 ], "rotation":90, "texture": "#main" },
-                "down":  { "uv": [ 8, 0, 9.24999921875, 0.25000078125 ], "rotation":270, "texture": "#main" }
-            }
-        },
-        {
-            "from": [ 7.62291, -4, 7.7628 ],
-            "to":   [ 7.62291, 22, 20.7628 ],
-            "rotation": { "angle": 45, "axis": "y", "origin": [7.14737, 9, 7.57148] },
-            "faces": {
-                "north": { "uv": [ 8, 0, 8.113521875, 3.29925234375 ], "texture": "#main" },
-                "east":  { "uv": [ 11.74977265625, 0, 8, 8.24949984375 ], "texture": "#main" },
-                "south": { "uv": [ 8, 0, 8.113521875, 2.749498125 ], "texture": "#main" },
-                "west":  { "uv": [ 8, 0, 11.74977265625, 8.24949984375 ], "texture": "#main" },
-                "up":    { "uv": [ 8, 0, 9.24999921875, 0.25000078125 ], "rotation":90, "texture": "#main" },
-                "down":  { "uv": [ 8, 0, 9.24999921875, 0.25000078125 ], "rotation":270, "texture": "#main" }
-            }
-        }
-    ],
-    "display": {
-        "head": {
-            "rotation": [ 9, -90, 0 ],
-            "translation": [ -0.75, -12.25, 5.75 ],
-            "scale": [ 1.5, 1.5, 1.5 ]
-        }
-    },
-    "groups": [
-        {
-            "name": "wings",
-            "origin": [
-                7.5,
-                8,
-                15
-            ],
-            "children": []
-        },
-        0,
-        1
-    ],
-    "__comment": "Model animated using Fizzy's model animator - http://fizzy81.github.io/animated-models/"
+	"credit": "Made with Blockbench",
+	"texture_size": [33, 33],
+	"textures": {
+		"main": "custom/autumnbutterfly1"
+	},
+	"elements": [
+		{
+			"from": [7.62198, -4, -5.63067],
+			"to": [7.62198, 22, 7.36933],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7.14645, 9, 7.56066]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.36352, 2.7495], "texture": "#main"},
+				"east": {"uv": [0, 0, 3.74977, 8.249], "texture": "#main"},
+				"south": {"uv": [0, 0, 0.11352, 3.84975], "texture": "#main"},
+				"west": {"uv": [3.74977, 0, 0, 8.2495], "texture": "#main"},
+				"up": {"uv": [0, 0, 1.25, 0.25], "rotation": 90, "texture": "#main"},
+				"down": {"uv": [0, 0, 1.25, 0.25], "rotation": 270, "texture": "#main"}
+			}
+		},
+		{
+			"from": [7.62291, -4, 7.7628],
+			"to": [7.62291, 22, 20.7628],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [7.14737, 9, 7.57148]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.11352, 3.29925], "texture": "#main"},
+				"east": {"uv": [3.74977, 0, 0, 8.2495], "texture": "#main"},
+				"south": {"uv": [0, 0, 0.11352, 2.7495], "texture": "#main"},
+				"west": {"uv": [0, 0, 3.74977, 8.2495], "texture": "#main"},
+				"up": {"uv": [0, 0, 1.25, 0.25], "rotation": 90, "texture": "#main"},
+				"down": {"uv": [0, 0, 1.25, 0.25], "rotation": 270, "texture": "#main"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [9, -90, 0],
+			"translation": [-0.75, -12.25, 5.75],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "wings",
+			"origin": [7.5, 8, 15],
+			"children": []
+		}, 0, 1]
 }
