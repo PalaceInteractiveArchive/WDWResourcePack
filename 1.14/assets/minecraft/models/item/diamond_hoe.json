@@ -126,6 +126,17 @@
 { "predicate": { "damaged": 0, "damage": 0.0768737988}, "model":"item/hats/incrediblescap"},
 { "predicate": { "damaged": 0, "damage": 0.0775144138}, "model":"item/handitems/onward_staff"},
 { "predicate": { "damaged": 0, "damage": 0.0781550288}, "model":"item/hats/loki_ears"},
-{ "predicate": { "damaged": 0, "damage": 0.0787956438}, "model":"item/hats/scarletwitch_headpiece"}
+{ "predicate": { "damaged": 0, "damage": 0.0787956438}, "model":"item/hats/scarletwitch_headpiece"},
+{ "predicate": { "damaged": 0, "damage": 0.0794362588}, "model":"item/hats/stormtrooperhelmet"},
+{ "predicate": { "damaged": 0, "damage": 0.0800768738}, "model":"item/hats/bucky_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0807174888}, "model":"item/hats/balloon_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0813581038}, "model":"item/hats/easter_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0819987188}, "model":"item/hats/green_easter_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0826393338}, "model":"item/hats/yellow_easter_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0832799488}, "model":"item/hats/slinky_redo"},
+{ "predicate": { "damaged": 0, "damage": 0.0832799488}, "model":"item/hats/slinky_redo"},
+{ "predicate": { "damaged": 0, "damage": 0.0839205637}, "model":"item/hats/palace_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0845611787}, "model":"item/hats/graduation_minnie_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0852017937}, "model":"item/hats/vintage_minnie_ears"}
 ]
 }

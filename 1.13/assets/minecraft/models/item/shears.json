@@ -94,6 +94,7 @@
       { "predicate": { "damaged": 0, "damage": 0.37394958}, "model": "item/rides/lwtlboat" },
       { "predicate": { "damaged": 0, "damage": 0.378151261}, "model": "item/rides/seasgreen" },
       { "predicate": { "damaged": 0, "damage": 0.382352941}, "model": "item/rides/seaspink" },
-      { "predicate": { "damaged": 0, "damage": 0.386554622}, "model": "item/rides/gotgmb" }
+      { "predicate": { "damaged": 0, "damage": 0.386554622}, "model": "item/rides/gotgmb" },
+      { "predicate": { "damaged": 0, "damage": 0.390756303}, "model": "item/rides/riverrapidsvehicle" }
 ]
 }

@@ -77,7 +77,14 @@
 		{ "predicate": { "damaged": 0, "damage": 0.0429212044}, "model":"item/decorations/djrexhead"},
 		{ "predicate": { "damaged": 0, "damage": 0.0435618193}, "model":"item/decorations/djrexbody"},
 		{ "predicate": { "damaged": 0, "damage": 0.0442024343}, "model":"item/decorations/luxo_ball"},
-		{ "predicate": { "damaged": 0, "damage": 0.0448430493}, "model":"item/decorations/pixarweek"}
+		{ "predicate": { "damaged": 0, "damage": 0.0448430493}, "model":"item/decorations/pixarweek"},
+		{ "predicate": { "damaged": 0, "damage": 0.0454836643}, "model":"item/decorations/ge/aa9"},
+		{ "predicate": { "damaged": 0, "damage": 0.0461242793}, "model":"item/decorations/ge/falcon"},
+		{ "predicate": { "damaged": 0, "damage": 0.0467648943}, "model":"item/decorations/ge/freighter"},
+		{ "predicate": { "damaged": 0, "damage": 0.0474055093}, "model":"item/decorations/ge/launchpod"},
+		{ "predicate": { "damaged": 0, "damage": 0.0480461243}, "model":"item/decorations/ge/launchpoddoor"},
+		{ "predicate": { "damaged": 0, "damage": 0.0486867393}, "model":"item/decorations/ge/shiptest"},
+		{ "predicate": { "damaged": 0, "damage": 0.0493273543}, "model":"item/decorations/ge/starcruiser"}
 	],
 	"elements": [
 		{

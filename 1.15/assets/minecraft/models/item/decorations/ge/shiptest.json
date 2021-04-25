@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "custom/ship3",
+		"particle": "custom/ship3"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 17, 0.001],
+			"faces": {
+				"north": {"uv": [0, 5.07132, 16, 11.15689], "texture": "#1"},
+				"east": {"uv": [0, 5.07132, 16, 11.15689], "texture": "#1"},
+				"south": {"uv": [16, 5.07132, 0, 11.15689], "texture": "#1"},
+				"west": {"uv": [0, 5.07132, 16, 11.15689], "texture": "#1"},
+				"up": {"uv": [0, 5.07132, 16, 11.15689], "texture": "#1"},
+				"down": {"uv": [0, 5.07132, 16, 11.15689], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [4, 4, 1]
+		}
+	}
+}
