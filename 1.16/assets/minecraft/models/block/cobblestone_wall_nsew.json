@@ -1,6 +1,6 @@
 {
-  "parent": "block/wall_nsew",
-  "textures": {
-    "wall": "block/cobblestone"
-  }
+    "parent": "block/wall_nsew",
+    "textures": {
+        "wall": "block/cobblestone"
+    }
 }

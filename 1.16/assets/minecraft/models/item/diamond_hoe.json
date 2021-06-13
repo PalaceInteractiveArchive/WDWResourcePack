@@ -1,995 +1,149 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/diamond_hoe"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.00064061499
-      },
-      "model": "item/crown"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.00128122998
-      },
-      "model": "item/tiara"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.00192184500
-      },
-      "model": "item/seasonalhats/seasonal_hat1"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.00256245996
-      },
-      "model": "item/seasonalhats/seasonal_hat2"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.00320307495
-      },
-      "model": "item/seasonalhats/seasonal_hat3"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.00384368994
-      },
-      "model": "item/seasonalhats/seasonal_hat4"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.004484304933
-      },
-      "model": "item/seasonalhats/elf"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.005124919923
-      },
-      "model": "item/anicrown"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.005765534914
-      },
-      "model": "item/hats/rainbow_ears_v2"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.006406149903
-      },
-      "model": "item/hats/mickey_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.007046764894
-      },
-      "model": "item/hats/minnie_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.007687379884
-      },
-      "model": "item/hats/buzz"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.008327994875
-      },
-      "model": "item/hats/woody_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.008968609865
-      },
-      "model": "item/hats/arendelle_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.009609224855
-      },
-      "model": "item/hats/woody"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.010249839846
-      },
-      "model": "item/hats/mickey_wand"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.010890454836
-      },
-      "model": "item/hats/stitch_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.011531069830
-      },
-      "model": "item/handitem/prideflag"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.012171684820
-      },
-      "model": "item/hats/mickey_ears_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.012804097311
-      },
-      "model": "item/handitem/transflag"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.013444302
-      },
-      "model": "item/hats/goofy"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.01408451
-      },
-      "model": "item/handitem/hpwand"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.01472471
-      },
-      "model": "item/hats/gidget"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.01536492
-      },
-      "model": "item/hats/max"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.01600512
-      },
-      "model": "item/hats/flannel_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0166453265
-      },
-      "model": "item/hats/cheetah_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.017285531370
-      },
-      "model": "item/hats/tiger_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.017925736235
-      },
-      "model": "item/hats/zebra_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.018565941101
-      },
-      "model": "item/hats/simba_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.01920614596670
-      },
-      "model": "item/hats/safari_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.01984635083226
-      },
-      "model": "item/hats/figment_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0204865557
-      },
-      "model": "item/hats/christmas_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0211267606
-      },
-      "model": "item/hats/donut_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0217669654
-      },
-      "model": "item/hats/millennial_pink_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.022407170294
-      },
-      "model": "item/hats/oswald_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0230473751600
-      },
-      "model": "item/hats/potc_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0236875800256
-      },
-      "model": "item/hats/winnie_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0243277848911
-      },
-      "model": "item/hats/bday_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.02496798975672
-      },
-      "model": "item/hats/poisoned_apple_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.02560819462227
-      },
-      "model": "item/hats/cruella_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.02624839948783
-      },
-      "model": "item/hats/ursula_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.02688860435339
-      },
-      "model": "item/hats/scan_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.02752880921895
-      },
-      "model": "item/hats/mickeysunhat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0281690140845
-      },
-      "model": "item/hats/builders_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.028809218950064
-      },
-      "model": "item/hats/sorcerer_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.02944942
-      },
-      "model": "item/hats/glasses"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0300896287
-      },
-      "model": "item/handitem/backpack"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03072983354
-      },
-      "model": "item/handitem/halloween_bucket"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0313901345
-      },
-      "model": "item/hats/candy_corn_minnie"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0320307495
-      },
-      "model": "item/hats/rudolph_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03267136
-      },
-      "model": "item/hats/hanukkahears2"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03331197
-      },
-      "model": "item/hats/marvelhat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.033952594
-      },
-      "model": "item/hats/r2d2_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0345932095
-      },
-      "model": "item/handitem/lightsaber"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0352338245
-      },
-      "model": "item/handitem/darksaber"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0358744395
-      },
-      "model": "item/hats/minnie_ears_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03651505445
-      },
-      "model": "item/handitem/darth_saber"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03715566944
-      },
-      "model": "item/hats/wookie_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03779628443
-      },
-      "model": "item/hats/navi_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03843689942
-      },
-      "model": "item/hats/graduation_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03907751441
-      },
-      "model": "item/hats/rose_gold_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.03971812940
-      },
-      "model": "item/handitem/backpack_kermit"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.04035874439
-      },
-      "model": "item/handitem/backpack_frozen"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.040999359385
-      },
-      "model": "item/handitem/backpack_stitch"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0416399743
-      },
-      "model": "item/handitem/backpack_jack"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.04228058936
-      },
-      "model": "item/handitem/backpack_tinkerbelle"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.04292120435
-      },
-      "model": "item/handitem/backpack_pooh"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.043561819346
-      },
-      "model": "item/hats/prideears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.04420243433
-      },
-      "model": "item/hats/pridebaseballcap"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.04484304932
-      },
-      "model": "item/handitem/pridelightstick"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.04548366431
-      },
-      "model": "item/hats/wings"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0461242793081
-      },
-      "model": "item/hats/hm_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0467648943
-      },
-      "model": "item/hats/americana_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0474055093
-      },
-      "model": "item/hats/epcot_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0480461243
-      },
-      "model": "item/hats/eve_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0486867393
-      },
-      "model": "item/hats/walle_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0493273543
-      },
-      "model": "item/hats/yoda_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0499679693
-      },
-      "model": "item/hats/up_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0506085842
-      },
-      "model": "item/hats/lilo_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0512491992
-      },
-      "model": "item/hats/tangled_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0518898142
-      },
-      "model": "item/hats/mmrr_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0525304292
-      },
-      "model": "item/hats/orangebirdears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0531710442
-      },
-      "model": "item/hats/h20glowears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0538116592
-      },
-      "model": "item/hats/cinderellaears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.054452274
-      },
-      "model": "item/handitem/swgecoke"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0550928891
-      },
-      "model": "item/handitem/swgesprite"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0557335042
-      },
-      "model": "item/handitem/elsa_staff"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0563741191
-      },
-      "model": "item/handitem/orangelightsaber"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0570147341
-      },
-      "model": "item/handitem/redlightsaber"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0576553491
-      },
-      "model": "item/handitem/storm_trooper_blaster"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.058295964
-      },
-      "model": "item/handitem/storm_trooper_blaster_black"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.058936579
-      },
-      "model": "item/handitem/violetlightsaber"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.059577194
-      },
-      "model": "item/handitem/walking_zero"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.060217809
-      },
-      "model": "item/hats/donald_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.060858424
-      },
-      "model": "item/hats/dumbo_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.06149903907
-      },
-      "model": "item/hats/kermit_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.06213965406
-      },
-      "model": "item/hats/oogie_boogie"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.062780269
-      },
-      "model": "item/hats/pumpkinearsbaseballcap"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.06342088404
-      },
-      "model": "item/hats/steamboat_willie_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0640614990
-      },
-      "model": "item/hats/towerofterrorhat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.064702114
-      },
-      "model": "item/handitem/maui_hook"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.065342729
-      },
-      "model": "item/handitem/greenlightsaber"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.065983344
-      },
-      "model": "item/handitem/bluemilk"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.066623959
-      },
-      "model": "item/handitem/mickey_phone"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.067264574
-      },
-      "model": "item/handitem/porg"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.067905189
-      },
-      "model": "item/hats/santa_belt_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.068545804
-      },
-      "model": "item/hats/mando_helmet"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.069186419
-      },
-      "model": "item/handitem/holocron"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.069827034
-      },
-      "model": "item/hats/figment_ears_bow"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0704676489
-      },
-      "model": "item/hats/resistancefighter"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0711082639
-      },
-      "model": "item/hats/sorcerer_mickey"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0717488789
-      },
-      "model": "item/handitem/paintbrush"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0723894939
-      },
-      "model": "item/handitem/paintbrush_pen"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0730301089
-      },
-      "model": "item/hats/paintbrush_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0736707239
-      },
-      "model": "item/hats/hamilton_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0743113389
-      },
-      "model": "item/hats/beetlejuice_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0749519539
-      },
-      "model": "item/hats/sully_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0755925689
-      },
-      "model": "item/hats/luxo_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0762331839
-      },
-      "model": "item/hats/remy_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0768737988
-      },
-      "model": "item/hats/incrediblescap"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0775144138
-      },
-      "model": "item/handitem/onward_staff"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0781550288
-      },
-      "model": "item/hats/loki_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0787956438
-      },
-      "model": "item/hats/scarletwitch_headpiece"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0794362588
-      },
-      "model": "item/hats/stormtrooperhelmet"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0800768738
-      },
-      "model": "item/hats/bucky_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0807174888
-      },
-      "model": "item/hats/balloon_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0813581038
-      },
-      "model": "item/hats/easter_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0819987188
-      },
-      "model": "item/hats/green_easter_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0826393338
-      },
-      "model": "item/hats/yellow_easter_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0832799488
-      },
-      "model": "item/hats/slinky_redo"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0839205637
-      },
-      "model": "item/hats/palace_hat"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0845611787
-      },
-      "model": "item/hats/graduation_minnie_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0852017937
-      },
-      "model": "item/hats/vintage_minnie_ears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0858424087
-      },
-      "model": "item/handitem/horse_shoe"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0864830237
-      },
-      "model": "item/handitem/sheriff_badge"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.087123638
-      },
-      "model": "item/hats/eventprideears"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0877642536
-      },
-      "model": "item/hats/flagheadband"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.088404868
-      },
-      "model": "item/hats/prideflagpin"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0890454836
-      },
-      "model": "item/hats/prideflowercrown"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0896860986
-      },
-      "model": "item/hats/prideglasses"
-    },
-    {
-      "predicate": {
-        "damaged": 0,
-        "damage": 0.0903267136
-      },
-      "model": "item/decorations/discoball"
-    }
-  ]
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+"overrides":[
+{ "predicate": { "damaged": 0, "damage": 0.00064061499}, "model":"item/crown"},
+{ "predicate": { "damaged": 0, "damage": 0.00128122998}, "model":"item/tiara"},
+{ "predicate": { "damaged": 0, "damage": 0.00192184500}, "model":"item/seasonalhats/seasonal_hat1"},
+{ "predicate": { "damaged": 0, "damage": 0.00256245996}, "model":"item/seasonalhats/seasonal_hat2"},
+{ "predicate": { "damaged": 0, "damage": 0.00320307495}, "model":"item/seasonalhats/seasonal_hat3"},
+{ "predicate": { "damaged": 0, "damage": 0.00384368994}, "model":"item/seasonalhats/seasonal_hat4"},
+{ "predicate": { "damaged": 0, "damage": 0.004484304933}, "model":"item/seasonalhats/elf"},
+{ "predicate": { "damaged": 0, "damage": 0.005124919923}, "model":"item/anicrown"},
+{ "predicate": { "damaged": 0, "damage": 0.005765534914}, "model":"item/hats/rainbow_ears_v2"},
+{ "predicate": { "damaged": 0, "damage": 0.006406149903}, "model":"item/hats/mickey_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.007046764894}, "model":"item/hats/minnie_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.007687379884}, "model":"item/hats/buzz"},
+{ "predicate": { "damaged": 0, "damage": 0.008327994875}, "model":"item/hats/woody_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.008968609865}, "model":"item/hats/arendelle_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.009609224855}, "model":"item/hats/woody"},
+{ "predicate": { "damaged": 0, "damage": 0.010249839846}, "model":"item/hats/mickey_wand"},
+{ "predicate": { "damaged": 0, "damage": 0.010890454836}, "model":"item/hats/stitch_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.011531069830}, "model":"item/handitems/prideflag"},
+{ "predicate": { "damaged": 0, "damage": 0.012171684820}, "model":"item/hats/mickey_ears_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.012804097311}, "model":"item/handitems/transflag"},
+{ "predicate": { "damaged": 0, "damage": 0.013444302}, "model":"item/hats/goofy"},
+{ "predicate": { "damaged": 0, "damage": 0.01408451}, "model":"item/handitems/hpwand"},
+{ "predicate": { "damaged": 0, "damage": 0.01472471}, "model":"item/hats/gidget"},
+{ "predicate": { "damaged": 0, "damage": 0.01536492}, "model":"item/hats/max"},
+{ "predicate": { "damaged": 0, "damage": 0.01600512}, "model":"item/hats/flannel_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0166453265}, "model":"item/hats/cheetah_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.017285531370}, "model":"item/hats/tiger_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.017925736235}, "model":"item/hats/zebra_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.018565941101}, "model":"item/hats/simba_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.01920614596670}, "model":"item/hats/safari_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.01984635083226}, "model":"item/hats/figment_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0204865557}, "model":"item/hats/christmas_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0211267606}, "model":"item/hats/donut_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0217669654}, "model":"item/hats/millennial_pink_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.022407170294}, "model":"item/hats/oswald_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0230473751600}, "model":"item/hats/potc_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0236875800256}, "model":"item/hats/winnie_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0243277848911}, "model":"item/hats/bday_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.02496798975672}, "model":"item/hats/poisoned_apple_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.02560819462227}, "model":"item/hats/cruella_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.02624839948783}, "model":"item/hats/ursula_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.02688860435339}, "model":"item/hats/scan_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.02752880921895}, "model":"item/hats/mickeysunhat"},
+{ "predicate": { "damaged": 0, "damage": 0.0281690140845}, "model":"item/hats/builders_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.028809218950064}, "model":"item/hats/sorcerer_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.02944942}, "model":"item/hats/glasses"},
+{ "predicate": { "damaged": 0, "damage": 0.0300896287}, "model":"item/handitems/backpack"},
+{ "predicate": { "damaged": 0, "damage": 0.03072983354}, "model":"item/handitems/halloween_bucket"},
+{ "predicate": { "damaged": 0, "damage": 0.0313901345}, "model":"item/hats/candy_corn_minnie"},
+{ "predicate": { "damaged": 0, "damage": 0.0320307495}, "model":"item/hats/rudolph_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.03267136}, "model":"item/hats/hanukkahears2"},
+{ "predicate": { "damaged": 0, "damage": 0.03331197}, "model":"item/hats/marvelhat"},
+{ "predicate": { "damaged": 0, "damage": 0.033952594}, "model":"item/hats/r2d2_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0345932095}, "model":"item/handitems/lightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.0352338245}, "model":"item/handitems/darksaber"},
+{ "predicate": { "damaged": 0, "damage": 0.0358744395}, "model":"item/hats/minnie_ears_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.03651505445}, "model":"item/handitems/darth_saber"},
+{ "predicate": { "damaged": 0, "damage": 0.03715566944}, "model":"item/hats/wookie_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.03779628443}, "model":"item/hats/navi_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.03843689942}, "model":"item/hats/graduation_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.03907751441}, "model":"item/hats/rose_gold_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.03971812940}, "model":"item/handitems/backpack_kermit"},
+{ "predicate": { "damaged": 0, "damage": 0.04035874439}, "model":"item/handitems/backpack_frozen"},
+{ "predicate": { "damaged": 0, "damage": 0.040999359385}, "model":"item/handitems/backpack_stitch"},
+{ "predicate": { "damaged": 0, "damage": 0.0416399743}, "model":"item/handitems/backpack_jack"},
+{ "predicate": { "damaged": 0, "damage": 0.04228058936}, "model":"item/handitems/backpack_tinkerbelle"},
+{ "predicate": { "damaged": 0, "damage": 0.04292120435}, "model":"item/handitems/backpack_pooh"},
+{ "predicate": { "damaged": 0, "damage": 0.043561819346}, "model":"item/hats/prideears"},
+{ "predicate": { "damaged": 0, "damage": 0.04420243433}, "model":"item/hats/pridebaseballcap"},
+{ "predicate": { "damaged": 0, "damage": 0.04484304932}, "model":"item/handitems/pridelightstick"},
+{ "predicate": { "damaged": 0, "damage": 0.04548366431}, "model":"item/hats/wings"},
+{ "predicate": { "damaged": 0, "damage": 0.0461242793081}, "model":"item/hats/hm_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0467648943}, "model":"item/hats/americana_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0474055093}, "model":"item/hats/epcot_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0480461243}, "model":"item/hats/eve_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0486867393}, "model":"item/hats/walle_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0493273543}, "model":"item/hats/yoda_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0499679693}, "model":"item/hats/up_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0506085842}, "model":"item/hats/lilo_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0512491992}, "model":"item/hats/tangled_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0518898142}, "model":"item/hats/mmrr_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0525304292}, "model":"item/hats/orangebirdears"},
+{ "predicate": { "damaged": 0, "damage": 0.0531710442}, "model":"item/hats/h20glowears"},
+{ "predicate": { "damaged": 0, "damage": 0.0538116592}, "model":"item/hats/cinderellaears"},
+{ "predicate": { "damaged": 0, "damage": 0.054452274}, "model":"item/handitems/swgecoke"},
+{ "predicate": { "damaged": 0, "damage": 0.0550928891}, "model":"item/handitems/swgesprite"},
+{ "predicate": { "damaged": 0, "damage": 0.0557335042}, "model":"item/handitems/elsa_staff"},
+{ "predicate": { "damaged": 0, "damage": 0.0563741191}, "model":"item/handitems/orangelightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.0570147341}, "model":"item/handitems/redlightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.0576553491}, "model":"item/handitems/storm_trooper_blaster"},
+{ "predicate": { "damaged": 0, "damage": 0.058295964}, "model":"item/handitems/storm_trooper_blaster_black"},
+{ "predicate": { "damaged": 0, "damage": 0.058936579}, "model":"item/handitems/violetlightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.059577194}, "model":"item/handitems/walking_zero"},
+{ "predicate": { "damaged": 0, "damage": 0.060217809}, "model":"item/hats/donald_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.060858424}, "model":"item/hats/dumbo_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.06149903907}, "model":"item/hats/kermit_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.06213965406}, "model":"item/hats/oogie_boogie"},
+{ "predicate": { "damaged": 0, "damage": 0.062780269}, "model":"item/hats/pumpkinearsbaseballcap"},
+{ "predicate": { "damaged": 0, "damage": 0.06342088404}, "model":"item/hats/steamboat_willie_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0640614990}, "model":"item/hats/towerofterrorhat"},
+{ "predicate": { "damaged": 0, "damage": 0.064702114}, "model":"item/handitems/maui_hook"},
+{ "predicate": { "damaged": 0, "damage": 0.065342729}, "model":"item/handitems/greenlightsaber"},
+{ "predicate": { "damaged": 0, "damage": 0.065983344}, "model":"item/handitems/bluemilk"},
+{ "predicate": { "damaged": 0, "damage": 0.066623959}, "model":"item/handitems/mickey_phone"},
+{ "predicate": { "damaged": 0, "damage": 0.067264574}, "model":"item/handitems/porg"},
+{ "predicate": { "damaged": 0, "damage": 0.067905189}, "model":"item/hats/santa_belt_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.068545804}, "model":"item/hats/mando_helmet"},
+{ "predicate": { "damaged": 0, "damage": 0.069186419}, "model":"item/handitems/holocron"},
+{ "predicate": { "damaged": 0, "damage": 0.069827034}, "model":"item/hats/figment_ears_bow"},
+{ "predicate": { "damaged": 0, "damage": 0.0704676489}, "model":"item/hats/resistancefighter"},
+{ "predicate": { "damaged": 0, "damage": 0.0711082639}, "model":"item/hats/sorcerer_mickey"},
+{ "predicate": { "damaged": 0, "damage": 0.0717488789}, "model":"item/handitems/paintbrush"},
+{ "predicate": { "damaged": 0, "damage": 0.0723894939}, "model":"item/handitems/paintbrush_pen"},
+{ "predicate": { "damaged": 0, "damage": 0.0730301089}, "model":"item/hats/paintbrush_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0736707239}, "model":"item/hats/hamilton_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0743113389}, "model":"item/hats/beetlejuice_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0749519539}, "model":"item/hats/sully_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0755925689}, "model":"item/hats/luxo_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0762331839}, "model":"item/hats/remy_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0768737988}, "model":"item/hats/incrediblescap"},
+{ "predicate": { "damaged": 0, "damage": 0.0775144138}, "model":"item/handitems/onward_staff"},
+{ "predicate": { "damaged": 0, "damage": 0.0781550288}, "model":"item/hats/loki_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0787956438}, "model":"item/hats/scarletwitch_headpiece"},
+{ "predicate": { "damaged": 0, "damage": 0.0794362588}, "model":"item/hats/stormtrooperhelmet"},
+{ "predicate": { "damaged": 0, "damage": 0.0800768738}, "model":"item/hats/bucky_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0807174888}, "model":"item/hats/balloon_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0813581038}, "model":"item/hats/easter_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0819987188}, "model":"item/hats/green_easter_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0826393338}, "model":"item/hats/yellow_easter_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0832799488}, "model":"item/hats/slinky_redo"},
+{ "predicate": { "damaged": 0, "damage": 0.0839205637}, "model":"item/hats/palace_hat"},
+{ "predicate": { "damaged": 0, "damage": 0.0845611787}, "model":"item/hats/graduation_minnie_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0852017937}, "model":"item/hats/vintage_minnie_ears"},
+{ "predicate": { "damaged": 0, "damage": 0.0858424087}, "model":"item/handitems/horse_shoe"},
+{ "predicate": { "damaged": 0, "damage": 0.0864830237}, "model":"item/handitems/sheriff_badge"},
+{ "predicate": { "damaged": 0, "damage": 0.087123638}, "model":"item/hats/eventprideears"},
+{ "predicate": { "damaged": 0, "damage": 0.0877642536}, "model":"item/hats/flagheadband"},
+{ "predicate": { "damaged": 0, "damage": 0.088404868}, "model":"item/hats/prideflagpin"},
+{ "predicate": { "damaged": 0, "damage": 0.0890454836}, "model":"item/hats/prideflowercrown"},
+{ "predicate": { "damaged": 0, "damage": 0.0896860986}, "model":"item/hats/prideglasses"},
+{ "predicate": { "damaged": 0, "damage": 0.0903267136}, "model":"item/decorations/discoball"}
+]
 }

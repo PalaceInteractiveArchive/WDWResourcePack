@@ -1,55 +1,23 @@
 {
-  "credit": "Made_with_Blockbench_by_RRandomm",
-  "textures": {
-    "0": "custom/star",
-    "particle": "custom/star"
-  },
-  "elements": [
-    {
-      "from": [
-        -4.5,
-        0,
-        9.5
-      ],
-      "to": [
-        19.5,
-        24,
-        9.5
-      ],
-      "rotation": {
-        "angle": 0,
-        "axis": "y",
-        "origin": [
-          3.5,
-          8,
-          17.5
-        ]
-      },
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            16,
-            16
-          ],
-          "texture": "#0"
-        }
-      }
-    }
-  ],
-  "display": {
-    "head": {
-      "translation": [
-        0,
-        18.75,
-        0
-      ],
-      "scale": [
-        3,
-        3,
-        1
-      ]
-    }
-  }
+	"credit": "Made with Blockbench by RRandomm",
+	"textures": {
+		"0": "custom/star",
+		"particle": "custom/star"
+	},
+	"elements": [
+		{
+			"from": [-4.5, 0, 9.5],
+			"to": [19.5, 24, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.5, 8, 17.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 18.75, 0],
+			"scale": [3, 3, 1]
+		}
+	}
 }

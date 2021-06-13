@@ -1,7 +1,5 @@
 {
-  "variants": {
-    "normal": {
-      "model": "brick_block_3d"
+    "variants": {
+        "normal": { "model": "brick_block_3d" }
     }
-  }
 }
