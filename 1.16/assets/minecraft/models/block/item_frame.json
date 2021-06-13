@@ -1,0 +1,78 @@
+{
+  "__comment": "Designed_by_Legobuilder0813_with_Cubik_Studio_-_https://cubik.studio",
+  "textures": {
+    "particle": "block/item_frame",
+    "texture": "block/item_frame"
+  },
+  "elements": [
+    {
+      "__comment": "Box1",
+      "from": [
+        -2,
+        -16,
+        -2
+      ],
+      "to": [
+        -1,
+        -15.999,
+        -1.999
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            14,
+            1.999,
+            15,
+            2
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            14,
+            14,
+            15,
+            14.001
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            1,
+            15.999,
+            2,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            14,
+            15.999,
+            15,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            14,
+            15.999,
+            14.001,
+            16
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            1.999001,
+            15.999,
+            2,
+            16
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ]
+}

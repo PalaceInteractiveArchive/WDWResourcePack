@@ -1,0 +1,468 @@
+{
+  "__comment": "Created_by_Filal",
+  "ambientocclusion": false,
+  "elements": [
+    {
+      "__comment": "cube",
+      "from": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "to": [
+        16.0,
+        16.0,
+        16.0
+      ],
+      "faces": {
+        "west": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#block",
+          "cullface": "west",
+          "tintindex": 0
+        },
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#block",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "east": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#block",
+          "cullface": "east",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#block",
+          "cullface": "south",
+          "tintindex": 0
+        },
+        "down": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#block",
+          "cullface": "down",
+          "tintindex": 0
+        },
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#block",
+          "cullface": "up",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl1_1",
+      "from": [
+        -8.0,
+        -8.0,
+        8.0
+      ],
+      "to": [
+        8.0,
+        8.0,
+        8.0
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": 45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            8.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            8.0,
+            8.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl1_2",
+      "from": [
+        -8.0,
+        8.0,
+        8.002
+      ],
+      "to": [
+        8.0,
+        24.0,
+        8.002
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": 45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            0.0,
+            16.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            8.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl1_3",
+      "from": [
+        8.0,
+        -8.0,
+        7.998
+      ],
+      "to": [
+        24.0,
+        8.0,
+        7.998
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": 45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            8.0,
+            8.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.0,
+            8.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl1_4",
+      "from": [
+        8.0,
+        8.0,
+        8.004
+      ],
+      "to": [
+        24.0,
+        24.0,
+        8.004
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": 45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            8.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.0,
+            0.0,
+            16.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl2_1",
+      "from": [
+        -8.0,
+        -8.0,
+        8.0
+      ],
+      "to": [
+        8.0,
+        8.0,
+        8.0
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": -45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            8.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            8.0,
+            8.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl2_2",
+      "from": [
+        -8.0,
+        8.0,
+        8.002
+      ],
+      "to": [
+        8.0,
+        24.0,
+        8.002
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": -45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            0.0,
+            16.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            0.0,
+            0.0,
+            8.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl2_3",
+      "from": [
+        8.0,
+        -8.0,
+        7.998
+      ],
+      "to": [
+        24.0,
+        8.0,
+        7.998
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": -45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            8.0,
+            8.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.0,
+            8.0,
+            16.0,
+            16.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    },
+    {
+      "__comment": "bl2_4",
+      "from": [
+        8.0,
+        8.0,
+        8.004
+      ],
+      "to": [
+        24.0,
+        24.0,
+        8.004
+      ],
+      "rotation": {
+        "origin": [
+          8.0,
+          8.0,
+          8.0
+        ],
+        "axis": "y",
+        "angle": -45,
+        "rescale": false
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.0,
+            0.0,
+            8.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "north",
+          "tintindex": 0
+        },
+        "south": {
+          "uv": [
+            8.0,
+            0.0,
+            16.0,
+            8.0
+          ],
+          "texture": "#bleaves",
+          "cullface": "south",
+          "tintindex": 0
+        }
+      }
+    }
+  ],
+  "textures": {
+    "particle": "block/leaves_birch",
+    "block": "block/leaves_birch",
+    "bleaves": "block/better_leaves_birch"
+  }
+}
